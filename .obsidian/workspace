@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rbac.md",
+            "file": "access privileges.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rbac.md",
+                "file": "access privileges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,11 @@
   },
   "active": "205b1e1146525011",
   "lastOpenFiles": [
+    "access privileges.md",
     "rbac.md",
     "merge.md",
     "neo4j basics.md",
     "access control.md",
-    "access privileges.md",
     "general database concepts.md",
     "functions.md"
   ]
