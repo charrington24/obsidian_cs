@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "access privileges.md",
+            "file": "python neo4j integration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "access privileges.md",
+                "file": "python neo4j integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +87,13 @@
   },
   "active": "205b1e1146525011",
   "lastOpenFiles": [
-    "access privileges.md",
+    "python neo4j integration.md",
     "rbac.md",
-    "merge.md",
     "neo4j basics.md",
+    "merge.md",
+    "functions.md",
+    "access privileges.md",
     "access control.md",
-    "general database concepts.md",
-    "functions.md"
+    "general database concepts.md"
   ]
 }
