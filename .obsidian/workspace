@@ -88,12 +88,12 @@
   "active": "205b1e1146525011",
   "lastOpenFiles": [
     "access control.md",
-    "access privileges.md",
-    "functions.md",
     "general database concepts.md",
-    "rbac.md",
-    "python neo4j integration.md",
+    "merge.md",
     "neo4j basics.md",
-    "merge.md"
+    "python neo4j integration.md",
+    "rbac.md",
+    "access privileges.md",
+    "functions.md"
   ]
 }
