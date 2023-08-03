@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "data structures and algos/linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +136,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "82c821483f01ffe5",
+  "active": "3a0c969f7e35f0d2",
   "lastOpenFiles": [
+    "data structures and algos/remove instances from linked list.md",
     "data structures and algos/linked list.md",
     "Untitled.md",
-    "data structures and algos/remove instances from linked list.md",
     "data structures and algos/linked list palindrome detection.md",
     "data structures and algos/linked list reversal.md",
     "leetcode template.md",
