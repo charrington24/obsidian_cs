@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data structures and algos/remove instances from linked list.md",
+                "file": "data structures and algos/breadth-first search.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,44 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd098cf946c2dfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd2d3d557b5904d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data structures and algos/depth-first search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce69e59a6d05de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data structures and algos/depth-first search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structures and algos/linked list.md",
+                "file": "data structures and algos/breadth-first search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,13 +171,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3a0c969f7e35f0d2",
+  "active": "205b1e1146525011",
   "lastOpenFiles": [
-    "data structures and algos/remove instances from linked list.md",
-    "data structures and algos/linked list.md",
-    "Untitled.md",
-    "data structures and algos/linked list palindrome detection.md",
+    "data structures and algos/depth-first search.md",
     "data structures and algos/linked list reversal.md",
+    "data structures and algos/linked list.md",
+    "data structures and algos/linked list palindrome detection.md",
+    "data structures and algos/remove instances from linked list.md",
+    "data structures and algos/breadth-first search.md",
+    "algorithm template.md",
     "leetcode template.md",
     "data structures and algos",
     "neo4j stuff",

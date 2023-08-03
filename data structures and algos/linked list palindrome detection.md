@@ -5,6 +5,8 @@
 
 [[linked list]]
 
+### question/problem: 
+
 ### idea:
 - traverse list
 - push each value to a stack  

@@ -1,3 +1,7 @@
+#datastructure
+#linkedlist 
+#interviewprep 
+
 ### construction:
 #### idea:
 
@@ -11,7 +15,7 @@
 
 #### code:
 #### time complexity:
-hiiiiiii
+
 
 ### insertion:
 #### idea:

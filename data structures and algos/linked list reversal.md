@@ -5,8 +5,9 @@
 
 [[linked list]]
 
-### idea:
+### question/problem: 
 
+### idea:
 
 ### time complexity:
 
