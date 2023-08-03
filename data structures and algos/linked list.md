@@ -3,18 +3,12 @@
 #interviewprep 
 
 ### construction:
-#### idea:
-
-#### code:
 
 #### time complexity:
 
 
 ### traversal:
-#### idea:
-
-#### code:
-#### time complexity:
+- time complexity:  O(n)
 
 
 ### insertion:
