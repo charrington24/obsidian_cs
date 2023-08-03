@@ -3,6 +3,8 @@
 #leetcode
 #interviewprep
 
+[[linked list]]
+
 ### idea:
 - traverse list
 - push each value to a stack  

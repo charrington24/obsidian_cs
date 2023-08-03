@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linked list palindrome detection.md",
+                "file": "linked list.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "26a0e8eb1071c887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linked list reversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5877a249ccce854c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linked list palindrome detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,16 +131,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "205b1e1146525011",
+  "active": "82c821483f01ffe5",
   "lastOpenFiles": [
-    "rbac.md",
-    "python neo4j integration.md",
+    "Untitled",
+    "linked list reversal.md",
+    "neo4j stuff",
+    "linked list.md",
     "linked list palindrome detection.md",
-    "merge.md",
-    "access privileges.md",
-    "functions.md",
-    "general database concepts.md",
-    "access control.md",
-    "neo4j basics.md"
+    "neo4j stuff/rbac.md",
+    "neo4j stuff/python neo4j integration.md",
+    "neo4j stuff/merge.md",
+    "neo4j stuff/access privileges.md",
+    "neo4j stuff/functions.md",
+    "neo4j stuff/general database concepts.md",
+    "neo4j stuff/access control.md",
+    "neo4j stuff/neo4j basics.md"
   ]
 }
