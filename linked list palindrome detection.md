@@ -3,9 +3,17 @@
 #leetcode
 #interviewprep
 
-
 ### idea:
+- traverse list
+- push each value to a stack  
+- read from stack
+- compare
 
+### time complexity:
+- O(n)- iterating through list
+
+### space complexity:
+- O(n)- constructing a stack
 
 ### working code:
 ``` python
@@ -27,3 +35,5 @@ while(cur.next):
 
 return True
 ```
+
+https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
