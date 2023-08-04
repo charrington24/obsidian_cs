@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data struct template.md",
+                "file": "formats/data struct template.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,18 +241,18 @@
   },
   "active": "cede1775a0d20ab1",
   "lastOpenFiles": [
+    "data structures and algos/depth-first search.md",
+    "data structures and algos/breadth-first search.md",
+    "formats/data struct template.md",
+    "formats/algorithm template.md",
+    "formats/leetcode template.md",
     "data structures and algos/merge two sorted lists.md",
     "data structures and algos/linked list.md",
     "data structures and algos/array.md",
     "data structures and algos/adding numbers represented as linked lists.md",
-    "data struct template.md",
     "data structures and algos/remove instances from linked list.md",
-    "data structures and algos/breadth-first search.md",
-    "data structures and algos/depth-first search.md",
     "data structures and algos/linked list palindrome detection.md",
     "data structures and algos/linked list reversal.md",
-    "formats/leetcode template.md",
-    "formats/algorithm template.md",
     "README.md",
     "formats",
     "data structures and algos",
