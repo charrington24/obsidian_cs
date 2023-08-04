@@ -19,7 +19,7 @@
 
 ### traversal:
 - time complexity:  O(n)
-
+- because to get to the kth node you have to visit every node until k
 
 ### insertion:
 #### idea:

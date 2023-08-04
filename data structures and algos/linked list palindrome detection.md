@@ -38,3 +38,6 @@ return True
 ```
 
 https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
+
+### another approach:
+- haven't implemented this one but allegedly you can use a fast and slow pointer approach to find the middle of the linked list, then reverse the second half and compare the first/second halves
