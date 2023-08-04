@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data structures and algos/linked list reversal.md",
+                "file": "data structures and algos/remove instances from linked list.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data structures and algos/linked list reversal.md",
+                "file": "data structures and algos/remove instances from linked list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +210,9 @@
   },
   "active": "e2d9bef33126a08d",
   "lastOpenFiles": [
-    "data structures and algos/remove instances from linked list.md",
-    "data structures and algos/linked list reversal.md",
     "data structures and algos/linked list palindrome detection.md",
+    "data structures and algos/linked list reversal.md",
+    "data structures and algos/remove instances from linked list.md",
     "data structures and algos/linked list.md",
     "data structures and algos/depth-first search.md",
     "data structures and algos/adding numbers represented as linked lists.md",
