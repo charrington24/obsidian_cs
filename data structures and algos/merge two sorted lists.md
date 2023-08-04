@@ -15,13 +15,34 @@ can be [[array]]
 - insertion at beginning or end of list- avoid this edge case with a dummy node
 
 ### time complexity:
-- o(n) where n is the length of the shorter array
+- o(n) where n is the length of the shorter list
 
 ### space complexity:
-- 
+- o(n+m) additional space for output 
 
 ### working code:
 ``` python
-
+	def mergeTwoLists(self, list1, list2):
+	
+	cur1 = list1
+	cur2 = list2
+	output = ListNode(None)
+	outputHead = output
+	
+	while(cur1 and cur2):
+		if(cur1.val < cur2.val):
+			output.next = cur1
+			cur1 = cur1.next
+		else:
+			output.next = cur2
+			cur2 = cur2.next
+			output = output.next
+			
+	if(cur1):
+		output.next = cur1
+	elif(cur2):
+		output.next = cur2
+	
+	return outputHead.next
 ```
 
