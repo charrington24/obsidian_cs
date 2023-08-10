@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "best time to buy and sell stock.md",
+                "file": "data structures and algos/best time to buy and sell stock.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "best time to buy and sell stock.md",
+                "file": "data structures and algos/best time to buy and sell stock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +136,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "403e46fc3c49a652",
+  "active": "82c821483f01ffe5",
   "lastOpenFiles": [
     "formats/leetcode template.md",
-    "best time to buy and sell stock.md",
+    "data structures and algos/best time to buy and sell stock.md",
     "data structures and algos/adding numbers represented as linked lists.md",
     "data structures and algos/array.md",
     "data structures and algos/breadth-first search.md",
