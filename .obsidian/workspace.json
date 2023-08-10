@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "invert binary tree.md",
+                "file": "data structures and algos/invert binary tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "invert binary tree.md",
+                "file": "data structures and algos/invert binary tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,10 +148,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "32d57b9786e8164f",
+  "active": "82c821483f01ffe5",
   "lastOpenFiles": [
     "formats/leetcode template.md",
-    "invert binary tree.md",
+    "data structures and algos/invert binary tree.md",
     "data structures and algos/best time to buy and sell stock.md",
     "data structures and algos/adding numbers represented as linked lists.md",
     "data structures and algos/array.md",
