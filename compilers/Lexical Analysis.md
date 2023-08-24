@@ -1,6 +1,5 @@
 #compilers
-- these are lecture notes! slides found here
-- 
+- these are lecture notes! slides here ![[Slides01_Lexical Analysis.pdf]]
 - aka scanner
 - tasks:
 	- split string into characters
