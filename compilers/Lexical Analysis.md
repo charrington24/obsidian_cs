@@ -1,4 +1,6 @@
 #compilers
+- these are lecture notes! slides found here
+- 
 - aka scanner
 - tasks:
 	- split string into characters
