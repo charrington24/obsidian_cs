@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/Lexical Analysis.md",
+                "file": "compilers/lexical analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/Lexical Analysis.md",
+                "file": "compilers/lexical analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,10 +172,10 @@
   },
   "active": "7574f95a425a3ab9",
   "lastOpenFiles": [
+    "data structures and algos/adding numbers represented as linked lists.md",
+    "compilers/lexical analysis.md",
     "data structures and algos/binary search.md",
     "compilers/Slides01_Lexical Analysis.pdf",
-    "compilers/Lexical Analysis.md",
-    "data structures and algos/adding numbers represented as linked lists.md",
     "compilers",
     "data structures and algos/depth-first search.md",
     "data structures and algos/breadth-first search.md",
