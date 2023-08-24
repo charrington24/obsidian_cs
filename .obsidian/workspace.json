@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/Untitled.md",
+                "file": "compilers/Lexical Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/Untitled.md",
+                "file": "compilers/Lexical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,10 +172,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "82c821483f01ffe5",
+  "active": "538fe78a3602e827",
   "lastOpenFiles": [
+    "data structures and algos/adding numbers represented as linked lists.md",
     "data structures and algos/binary search.md",
-    "compilers/Untitled.md",
+    "compilers/Lexical Analysis.md",
     "compilers",
     "data structures and algos/depth-first search.md",
     "data structures and algos/breadth-first search.md",
@@ -183,7 +184,6 @@
     "data structures and algos/invert binary tree.md",
     "formats/leetcode template.md",
     "data structures and algos/best time to buy and sell stock.md",
-    "data structures and algos/adding numbers represented as linked lists.md",
     "data structures and algos/array.md",
     "data structures and algos/linked list.md",
     "data structures and algos/remove instances from linked list.md",
