@@ -15,3 +15,17 @@
 - no algorithm for detecting whether a CFG is ambiguous
 - also no algorithm for converting ambiguous to nonambiguous. Can't win
 - no way to prove that a cfg is unambiguous?
+- examples:
+- s->ss+|ss*|a
+	- this is postfix- non ambiguous
+- s->a+a|a->0||
+	- non ambiguous- only 4 options
+- A->AS|B, A->aAa|Aa|E(epsilon not e), B->bBb|E
+	- two derivations of aa:
+		- S->AS->AaS->aS->aAS->aAaS->aa
+		- S->AS->AaS->AaaS->aaB->aa
+	- note: when proving that a string has two diff derivations, make sure both the derivations are rightmost or both leftmost. mixed doesnt prove anything
+- How to make an ambiguous grammar unambiguous?
+	- Through operator precedence (layering)
+	- however, CFGs with operator precedence CAN be ambiguous
+	
