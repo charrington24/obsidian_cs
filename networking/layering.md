@@ -4,4 +4,18 @@
 - Two main rules:
 	- Same host: each layer can only interact with adjacent layers; layers are all black boxes to each other
 	- Remote host: each layer talks only to identical layer on other end
-- 
+- Internet Protocol stack:
+	- Application (top)
+		- interacts with user 
+		- Protocols: FTP, SMTP, HTTP
+	- Transport
+		- inter-process data transfer- deal with OS, interactions between operating systems, socket stuff, etc
+		- Protocols: TCP, UDP
+	- Network
+		- routing datagrams from source to dest
+		- Protocols: IP
+	- Link
+		- data transfer between adjacent network nodes
+		- Protocols: 802.11b, Ethernet
+	- Physical (bottom)
+		- actual bits on the wire
