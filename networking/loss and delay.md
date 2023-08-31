@@ -27,5 +27,10 @@
 	- d_prop depends on physical link length
 - Tracking delays:
 	- ping to get delay between routers
-	- **traceroute** (tracert on windows) gets delay measurment from source -> all routers to destination
-	- 
+	- **traceroute** (tracert on windows) gets delay measurement from source -> all routers to destination
+- Packet loss
+	- queue capacity is finite
+	- **drop-tail queuing**: packets that arrive to a full buffer are dropped
+	- lost packets can be retransmitted by prev router or source
+	- **loss rate**: % data lost over long period
+	
