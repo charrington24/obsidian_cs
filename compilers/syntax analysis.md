@@ -1,0 +1,17 @@
+![[Slides02_Syntax Analysis.pdf]]
+- **context-free grammar** can define **context-free languages**
+- consist of four things:
+	- nonterminal symbols (variables)
+	- terminal symbols
+	- production rules (nonterminal to terminal/nonterminal)
+	- start symbol
+- derivations:
+	- leftmost: each step expands leftmost terminal
+	- rightmost: same as leftmost but right
+	- encode what productions were applied and in what order
+	- parse tree encodes the steps
+- similar to scanning, you can end up with two correct parse trees. this is called ambiguity
+- CFG is **ambiguous** if there is at least one string with 2+ parse trees
+- no algorithm for detecting whether a CFG is ambiguous
+- also no algorithm for converting ambiguous to nonambiguous. Can't win
+- no way to prove that a cfg is unambiguous?

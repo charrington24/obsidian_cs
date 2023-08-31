@@ -1,0 +1,31 @@
+#networking
+- packets queue in router buffers- usually one queue per port
+- if arrival rate > capacity, packets queue (delay in wait)
+- if there are no free buffers, packet gets dropped
+- Sources of packet delay:
+	- **Router processing delay**
+		- need to process packet, determine output link, place in buffer
+	- **Queueing delay**
+		- wait at output link for transmission- based on congestion level. Usually rises with input rate
+		- R = bandwidth (bps)
+		- L = packet length
+		- a = average packet arrival rate (pkts/s)
+		- if infinite buffer space, `traffic intensity = La/R`
+		- if p ~ 0, avg delay small
+		- p >= 1: infinite delay (traffic spikes)
+		- p = 1: some delay
+	- **Transmission delay**
+		- Time to send: L/R (L-> packet length in bits, R -> link rate in bps)
+	- **Propogation delay**
+		- increases with physical distance packet travels
+		- d/s (distance in m / propagation speed, usually `2*10^8`)
+- Nodal delay:
+	- `d_proc + d_queue + d_trans + d_prop`
+	- d_proc usually fixed, microsecs
+	- d_queue based on congestion, varies randomly between packets
+	- d_trans L/R as above
+	- d_prop depends on physical link length
+- Tracking delays:
+	- ping to get delay between routers
+	- **traceroute** (tracert on windows) gets delay measurment from source -> all routers to destination
+	- 

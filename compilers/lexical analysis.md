@@ -16,3 +16,23 @@
 - **formal language**: set of strings. many languages have finite descriptions; described using regex, automaton, or a grammar
 	- regex: capture regular languages
 	- can't be described with regex: irregular language
+- regex vs automata: regex is declarative, automata operative
+	- automata: algorithm for determining acceptance
+- automata can match lexemes to tokens
+- challenge in scanning: when there are different ways to scan an input, how do we know which to pick?
+	- conflict resolution: left-to-right scan algorithm
+	- **maximal munch:** match longest possible prefix of remaining text. greedy algorithm
+- implementing maximal munch:
+	- convert expressions to NFAs
+	- run all NFAs in paralell, track last match
+	- when all automata get stuck, restart at last match
+- when two regular expressions apply to a token, use the one that was defined first
+- what if nothing matches? match it to an error token
+- note for pa1: don't need to code and run all automata explicitly.
+- how to make token matching more efficient?
+	- switch NFAs to DFAs- every state must have exactly one transition per character. no epsilon transitions
+	- deterministic nature makes it possible to create a table- much faster than tracing each state
+- how to convert NFA to DFA?
+	- make the DFA simulate NFA
+	- states of DFA correspond to sets of states of NFA
+	- trade-offs: NFA runs longer, but DFA takes much more memory
