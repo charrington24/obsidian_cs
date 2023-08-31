@@ -1,7 +1,7 @@
 #compilers
 #csce434
 #lecture
-- these are lecture notes! slides here ![[Slides01_Lexical Analysis.pdf]]
+- these are lecture notes! slides here ![[Slides01_Lexical Analysis 1.pdf]]
 - aka scanner
 - tasks:
 	- split string into characters
