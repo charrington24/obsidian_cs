@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6486e73064d0ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "32d57b9786e8164f",
+  "active": "6486e73064d0ecc3",
   "lastOpenFiles": [
     "top-down parsing.md",
     "Slides03-Top Down Parsing.pdf",
