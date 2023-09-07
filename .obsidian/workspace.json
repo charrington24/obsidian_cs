@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data structures and algos/adding numbers represented as linked lists.md",
+                "file": "compilers/lexical analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,26 +35,14 @@
             "id": "32d57b9786e8164f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "compilers/syntax analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6486e73064d0ecc3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
+                "file": "compilers/Slides01_Lexical Analysis.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/syntax analysis.md",
+                "file": "compilers/Slides01_Lexical Analysis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,17 +146,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "6486e73064d0ecc3",
+  "active": "32d57b9786e8164f",
   "lastOpenFiles": [
+    "compilers/lexical analysis.md",
+    "Slides01_Lexical Analysis 1.pdf.md",
+    "data structures and algos/adding numbers represented as linked lists.md",
+    "data structures and algos/best time to buy and sell stock.md",
+    "compilers/Slides01_Lexical Analysis.pdf",
+    "compilers/syntax analysis.md",
     "top-down parsing.md",
     "Slides03-Top Down Parsing.pdf",
     "networking/loss and delay.md",
     "networking/layering.md",
     "networking/436 Intro 1.md",
-    "compilers/syntax analysis.md",
-    "compilers/lexical analysis.md",
     "compilers/Regex.md",
-    "compilers/Slides01_Lexical Analysis.pdf",
     "compilers/Syntax Analysis Slides.md",
     "compilers/Slides02_Syntax Analysis.pdf",
     "compilers/Slides01_Lexical Analysis.pdf.md",
@@ -179,21 +170,17 @@
     "networking",
     "README.md",
     "Untitled.canvas",
-    "data structures and algos/adding numbers represented as linked lists.md",
     "data structures and algos/binary search.md",
     "compilers",
     "data structures and algos/depth-first search.md",
     "data structures and algos/breadth-first search.md",
     "formats/algorithm template.md",
     "formats/leetcode template.md",
-    "data structures and algos/best time to buy and sell stock.md",
     "data structures and algos/array.md",
     "data structures and algos/linked list.md",
     "data structures and algos/remove instances from linked list.md",
     "data structures and algos/linked list palindrome detection.md",
     "data structures and algos/linked list reversal.md",
-    "data structures and algos/merge two sorted lists.md",
-    "formats/data struct template.md",
     "formats",
     "data structures and algos",
     "neo4j stuff"
