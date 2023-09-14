@@ -57,9 +57,11 @@
             "id": "a199d49c0020d9a8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "compilers/top-down parsing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/Slides01_Lexical Analysis.pdf",
+                "file": "compilers/top-down parsing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
