@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "error recovery.md",
+                "file": "compilers/syntax analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/top-down parsing.md",
+                "file": "compilers/lexical analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/top-down parsing.md",
+                "file": "compilers/syntax analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,13 +180,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "a199d49c0020d9a8",
+  "active": "8e2107d11420e79b",
   "lastOpenFiles": [
-    "compilers/lexical analysis.md",
     "compilers/top-down parsing.md",
+    "error recovery.md",
+    "compilers/lexical analysis.md",
     "compilers/syntax analysis.md",
     "compilers/Regex.md",
-    "error recovery.md",
     "compilers/Slides02_Syntax Analysis.pdf",
     "Untitled.md",
     "compilers/Slides03-Top Down Parsing.pdf",
