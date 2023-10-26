@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "646cf52562162a35",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "403e46fc3c49a652",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "8e2107d11420e79b",
+  "active": "646cf52562162a35",
   "lastOpenFiles": [
     "compilers/top-down parsing.md",
     "error recovery.md",
