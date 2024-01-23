@@ -13,7 +13,7 @@
 		- eg: 13 -> T_IntConst with 13 as an attribute
 - associating lexemes with tokens:
 	- tokens can be associated with one lexeme or many
-- **formal language**: set of strings. many languages have finite descriptions; described using regex, automaton, or a grammar
+- **formal language**: set of strings. many languages have finite descriptions; described using [[Regex]], automaton, or a grammar
 	- regex: capture regular languages
 	- can't be described with regex: irregular language
 - regex vs automata: regex is declarative, automata operative
@@ -21,7 +21,7 @@
 - automata can match lexemes to tokens
 - challenge in scanning: when there are different ways to scan an input, how do we know which to pick?
 	- conflict resolution: left-to-right scan algorithm
-	- **maximal munch:** match longest possible prefix of remaining text. greedy algorithm
+	- **maximal munch:** match longest possible prefix of remaining text. greedy algorithm. see [[maximal munch]]
 - implementing maximal munch:
 	- convert expressions to NFAs
 	- run all NFAs in paralell, track last match
