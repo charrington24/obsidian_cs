@@ -12,11 +12,7 @@
 		- A->Aa|c
 		- try to get to c from A
 		- A->Aa->Aaa->Aaaa etc. Never c
-**
-
 ### Recursive Descent Parsing
 - Implement functions (which may call themselves or others) which implement non-terminal rules of the grammar. 
 - Recursive Descent is not synonymous with LL(1); i.e., you can write recursive descent for LL(2), LL(k)
 - You need to convert to LL(1) first. See [[LL(1)]]
-
-**

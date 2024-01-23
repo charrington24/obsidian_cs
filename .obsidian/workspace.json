@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/top-down parsing.md",
+                "file": "compilers/Regex.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,16 @@
             "id": "f9f44403a769d429",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240122164210.png"
+                "file": "compilers/error recovery.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240122164210.png",
+                "file": "compilers/Regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,46 +160,46 @@
       "templates:Insert template": false
     }
   },
-  "active": "82c821483f01ffe5",
+  "active": "4869a616ecf6d010",
   "lastOpenFiles": [
-    "Pasted image 20240122164232.png",
-    "Pasted image 20240122170239.png",
-    "compilers/Slides03-Top Down Parsing.pdf",
-    "compilers/Slides02_Syntax Analysis.pdf",
-    "compilers/Slides01_Lexical Analysis.pdf",
-    "compilers/Regex.md",
-    "LL(1).md",
+    "compilers/LL(1).md",
     "compilers/top-down parsing.md",
+    "compilers/error recovery.md",
+    "files/Pasted image 20240122164210.png",
+    "files",
+    "files/Pasted image 20240122164232.png",
+    "files/Pasted image 20240122170239.png",
+    "files/Slides03-Top Down Parsing.pdf",
+    "files/Slides02_Syntax Analysis.pdf",
+    "files/Slides01_Lexical Analysis.pdf",
+    "compilers/Regex.md",
     "compilers/syntax analysis.md",
     "compilers/lexical analysis.md",
     "compilers/maximal munch.md",
     "distributed systems/intro to distributed systems.md",
     "distributed systems/remote procedure calls.md",
-    "Pasted image 20240122164210.png",
     "distributed systems",
     "applied cryptography/syllabus day.md",
     "applied cryptography/intro to cryptography.md",
     "applied cryptography/basic networking.md",
     "applied cryptography",
-    "error recovery.md",
     "data structures and algos/best time to buy and sell stock.md",
     "Slides01_Lexical Analysis 1.pdf.md",
     "data structures and algos/adding numbers represented as linked lists.md",
     "networking/loss and delay.md",
     "networking/layering.md",
-    "networking/436 Intro 1.md",
+    "files/436 Intro 1.md",
     "compilers/Syntax Analysis Slides.md",
     "compilers/Slides01_Lexical Analysis.pdf.md",
     "compilers/Slides01_Lexical Analysis 1.pdf",
     "data structures and algos/invert binary tree.md",
-    "networking/436＿Intro＿1.pdf",
+    "files/436＿Intro＿1.pdf",
     "436＿Intro＿1.pdf.md",
     "networking",
     "README.md",
     "Untitled.canvas",
     "data structures and algos/binary search.md",
     "compilers",
-    "data structures and algos/depth-first search.md",
-    "formats"
+    "data structures and algos/depth-first search.md"
   ]
 }
