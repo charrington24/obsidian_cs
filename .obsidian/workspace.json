@@ -37,19 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/top-down parsing.md",
+                "file": "distributed systems/intro to distributed systems.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f1c51be3cc59e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           },
@@ -88,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/top-down parsing.md",
+                "file": "distributed systems/intro to distributed systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -202,13 +194,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "d9f1c51be3cc59e5",
+  "active": "646cf52562162a35",
   "lastOpenFiles": [
+    "compilers/top-down parsing.md",
+    "Pasted image 20240122170239.png",
+    "Pasted image 20240122164232.png",
+    "Pasted image 20240122164210.png",
+    "distributed systems/remote procedure calls.md",
+    "distributed systems/intro to distributed systems.md",
+    "distributed systems",
+    "applied cryptography/syllabus day.md",
+    "applied cryptography/intro to cryptography.md",
+    "applied cryptography/basic networking.md",
+    "applied cryptography",
     "compilers/Slides03-Top Down Parsing.pdf",
     "compilers/Regex.md",
     "compilers/lexical analysis.md",
     "compilers/syntax analysis.md",
-    "compilers/top-down parsing.md",
     "error recovery.md",
     "compilers/Slides02_Syntax Analysis.pdf",
     "Untitled.md",
@@ -232,13 +234,6 @@
     "compilers",
     "data structures and algos/depth-first search.md",
     "data structures and algos/breadth-first search.md",
-    "formats/algorithm template.md",
-    "formats/leetcode template.md",
-    "data structures and algos/array.md",
-    "data structures and algos/linked list.md",
-    "data structures and algos/remove instances from linked list.md",
-    "formats",
-    "data structures and algos",
-    "neo4j stuff"
+    "formats"
   ]
 }
