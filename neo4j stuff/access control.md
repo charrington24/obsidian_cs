@@ -1,4 +1,4 @@
-#plug_power 
+
 #neo4j 
 #dbms 
 #cypher 

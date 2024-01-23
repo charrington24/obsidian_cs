@@ -1,5 +1,4 @@
 #networking 
-#csce449
 #cryptography
 #cybersecurity 
 ISO reference model

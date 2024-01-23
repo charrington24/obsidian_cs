@@ -1,6 +1,4 @@
 #distributed_systems
-#lecture 
-#csce438
 #networking 
 Formal analysis: 
 	![[Pasted image 20240122164210.png]]

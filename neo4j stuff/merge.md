@@ -1,6 +1,5 @@
 #dbms 
 #neo4j 
-#plug_power 
 #cypher 
 #graphs 
 

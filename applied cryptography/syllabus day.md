@@ -1,4 +1,0 @@
-- course will cover how to use cryptography in network protocols
-- cryptographic algorithms
-- quantum computers and major quantum algorithms
-- quantum-safe algorithms, crypto systems

@@ -1,6 +1,5 @@
-#lecture 
+
 #cryptography 
-#csce449 
 **encryption**: way of scrambling data in an unscrambleable way
 it's really annoying to keep thinking of new ways to scramble, so we decided on one algorithm that just requires a "key" parameter
 

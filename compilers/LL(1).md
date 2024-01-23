@@ -26,3 +26,8 @@
 - Converting to LL(1) Examples
 
 ![](https://lh7-us.googleusercontent.com/k-Xxfst_IJ6SYFhfK9aZSa29df1rmKO8H_D7DV64ewKVfX6voWHZZnmR0jlGW3x-D6fdtU80YHeSXsY6Mg93JKzZd8POy68CI3sg4ADw7fp5V8HSXwBzkKaiFM4gWOp2XYsaiAQjmcx4le7p6fuXpj8)
+
+### Limits of LL(1)
+- Only 1 lookahead token limits the grammar. For example, take the C++20 `if ( boolExpr )` and `if constexpr( boolExpr )`  An LL(1) parser may not be able to differentiate between these two constructs. 
+### Strengths of LL(1)
+- LL(1) is efficient and deterministic. It is great for parsing grammars without left recursion, and are relatively straightforward to reason about

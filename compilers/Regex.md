@@ -1,3 +1,4 @@
+#compilers
 ### Regex and Atomic Regex
 - Used to describe regular languages
 - Irregular languages: still formal, but can’t be described w regex, may require backtracking etc
