@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d7667b89593aa11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compilers/function overloading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36dd1edb5c2a24d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compilers/typing with classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/error type.md",
+                "file": "compilers/typing with classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,13 +184,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "13fa06609656cf48",
+  "active": "36dd1edb5c2a24d5",
   "lastOpenFiles": [
-    "compilers/typing with classes.md",
     "compilers/type checking.md",
-    "compilers/error type.md",
-    "compilers/Regex.md",
     "compilers/syntax analysis.md",
+    "compilers/Regex.md",
+    "applied cryptography/intro to cryptography.md",
+    "compilers/legality vs safety.md",
+    "compilers/function overloading.md",
+    "compilers/error type.md",
+    "compilers/lexical analysis.md",
+    "compilers/typing with classes.md",
     "compilers/top-down parsing.md",
     "compilers/maximal munch.md",
     "compilers/LL(1).md",
@@ -179,15 +207,11 @@
     "distributed systems/intro to distributed systems.md",
     "data structures and algos/array.md",
     "data structures and algos/adding numbers represented as linked lists.md",
-    "compilers/lexical analysis.md",
     "compilers/first and follow sets.md",
-    "applied cryptography/intro to cryptography.md",
     "applied cryptography/basic networking.md",
     "neo4j stuff/access control.md",
     "neo4j stuff/access privileges.md",
     "neo4j stuff/functions.md",
-    "neo4j stuff/general database concepts.md",
-    "neo4j stuff/merge.md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",
