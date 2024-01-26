@@ -58,6 +58,6 @@ Random Number Generation
 	- geiger counter clicks, background noise on mic are good sources of microphone. Pretty sure cloudflare does this with lava lamps
 	- Bits of entropy counted as log_2(g) (where g is # of guesses it'd take to find the value)
 	- pseudo-random number generator takes seed + internal state and generates arbitrary length string of pseudo-random bits
-
+	- if you could guess every possible seed
 
 
