@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc49f99a8bf9f5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "applied cryptography/Hashing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/intro to cryptography.md",
+                "file": "applied cryptography/Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +148,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "215e2a77f04fde1f",
+  "active": "cc49f99a8bf9f5f0",
   "lastOpenFiles": [
-    "applied cryptography/basic networking.md",
     "applied cryptography/intro to cryptography.md",
+    "applied cryptography/basic networking.md",
+    "applied cryptography/Hashing.md",
     "compilers/Regex.md",
     "compilers/typing with classes.md",
     "compilers/IR.md",

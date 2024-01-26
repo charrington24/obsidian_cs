@@ -33,10 +33,18 @@ encryption history:
 	monoalphabetic substitution
 
 Public Key Cryptography
+	aka "asymmetric cryptography"
+	two keys that are inverses of each other
 	you have a public key and a private key which are inverses of each other
 	everyone knows bob's public key, but only he knows his private key
 	you encrypt for bob using bob's public key, and he decrypts it with his private key
+	analogy: nobody knows how to do division; they only ever invented multiplication
 
-Non repudiation: if alice signs something, she can't later say it wasn't from her
+Non-repudiation: 
+	if alice signs something, she can't later say it wasn't from her
+	Done w public key digital signatures so that bob can prove to a third party to 
+	Can't be done with MAC because MAC depends on secret only known to alice and bob, not a third party. 
 
 Integrity check: hash of message and private key
+
+
