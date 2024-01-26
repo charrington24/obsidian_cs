@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83178915282dd785",
+        "id": "3f813b75eb2322d0",
         "type": "tabs",
         "children": [
           {
-            "id": "591c7ca7a14aa094",
+            "id": "215e2a77f04fde1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compilers/Regex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1801127ed85ac286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/typing with classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13fa06609656cf48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/error type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d7667b89593aa11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/function overloading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36dd1edb5c2a24d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/typing with classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81d68c2c313fcd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/TAC (three address code).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714fefc2c555ccc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compilers/IR.md",
+                "file": "applied cryptography/intro to cryptography.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compilers/IR.md",
+                "file": "applied cryptography/intro to cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,15 +135,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "714fefc2c555ccc6",
+  "active": "215e2a77f04fde1f",
   "lastOpenFiles": [
-    "compilers/TAC (three address code).md",
-    "compilers/IR.md",
+    "applied cryptography/basic networking.md",
+    "applied cryptography/intro to cryptography.md",
+    "compilers/Regex.md",
     "compilers/typing with classes.md",
+    "compilers/IR.md",
+    "cybersecurity risk",
+    "compilers/TAC (three address code).md",
     "compilers/type checking.md",
     "compilers/syntax analysis.md",
-    "compilers/Regex.md",
-    "applied cryptography/intro to cryptography.md",
     "compilers/legality vs safety.md",
     "compilers/function overloading.md",
     "compilers/error type.md",
@@ -234,8 +163,6 @@
     "data structures and algos/array.md",
     "data structures and algos/adding numbers represented as linked lists.md",
     "compilers/first and follow sets.md",
-    "applied cryptography/basic networking.md",
-    "neo4j stuff/access control.md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",
@@ -248,7 +175,6 @@
     "compilers/Slides01_Lexical Analysis 1.pdf",
     "files/436＿Intro＿1.pdf",
     "networking",
-    "Untitled.canvas",
-    "compilers"
+    "Untitled.canvas"
   ]
 }

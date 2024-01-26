@@ -38,3 +38,5 @@ Public Key Cryptography
 	you encrypt for bob using bob's public key, and he decrypts it with his private key
 
 Non repudiation: if alice signs something, she can't later say it wasn't from her
+
+Integrity check: hash of message and private key
