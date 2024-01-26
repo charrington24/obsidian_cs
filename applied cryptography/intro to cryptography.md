@@ -63,3 +63,17 @@ Random Number Generation
 		- generally you don't re-input the seed; the internal state is propagated based on some rule with every generation, which programmatically determines the next number
 
 
+[[cryptographic attacks]]
+
+Math
+- integers are a pain to store bc they get big, so most cryptography math uses modular arithmetic 
+- field: needs two operations, commutativity, associativity, distributivity, additive identity, multiplicative identity, additive inverse
+- ring: like a field, but some non zero elements may not have multiplicative identities or inverses. Integers mod n where n is not prime
+- groups 
+- finite fields: for each prime p, there is exactly one finite field w p elements, which is mod p arithmetic
+- for each prime p and power k, there is exactly one finite field with p^k, this is GF(p^k)
+- mod 10 arithmetic needs 4 bits per element but that sucks 
+- more efficient to use finite field which is power of 2 since each n-bit value represents an element 
+- addition in GF is just XOR and multiplication is also super efficient 
+- 
+
