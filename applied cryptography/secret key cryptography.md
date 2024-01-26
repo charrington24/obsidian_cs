@@ -32,3 +32,8 @@
 	- p-boxes (permutation or diffusion)
 		- shuffles the bits around
 		- input and output have same number of bits
+#### more about DES
+- 64-bit block, 56-bit key
+- key is actually 64 bits but each byte has a bit of parity (this is useless padding- one bit per byte is not enough for real safety)
+- 56-bit security is completely insecure
+- "decryption" is the same as encryption but the keys are injected in the opposite order
