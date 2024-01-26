@@ -31,3 +31,4 @@
 		- so s-boxes tend to be small
 	- p-boxes (permutation or diffusion)
 		- shuffles the bits around
+		- input and output have same number of bits
