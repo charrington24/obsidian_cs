@@ -41,3 +41,4 @@
 ### How to make a cipher reversible?
 - DES uses a **Feistel Cipher**
 	- build reversible function out of a non reversible function
+- There was a graphic on the slides but i still have no idea how this works. Find a youtube video or something
