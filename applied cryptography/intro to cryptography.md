@@ -60,6 +60,6 @@ Random Number Generation
 	- pseudo-random number generator takes seed + internal state and generates arbitrary length string of pseudo-random bits
 	- attacker could get access to internal state, which would allow all future "random" output to be predicted
 	- internal state allows you to keep inputting the same seed and get different results
-		- generally you don't re-input the seed; the internal state is updated based on some rule with every generation, which allows 
+		- generally you don't re-input the seed; the internal state is propagated based on some rule with every generation, which allows 
 
 
