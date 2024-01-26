@@ -54,10 +54,10 @@ Random Number Generation
 	- statistically random is different from cryptographically random
 	- source of randomness: **seed**. also known as **sources of entropy**
 		- strength of RNG no stronger than strength of seed
-		- lots of non cryptographic RNGs use time of day or programatic keystrokes. These are fine for running simulations but not good for cryptography
-	- geiger counter clicks, background noise on mic are good sources of microphone. Pretty sure cloudflare does this with lava lamps
+		- lots of non cryptographic RNGs use time of day or programmatic keystrokes. These are fine for running simulations but not good for cryptography
+	- Geiger counter clicks, background noise on mic are good sources of microphone. Pretty sure cloudflare does this with lava lamps
 	- Bits of entropy counted as log_2(g) (where g is # of guesses it'd take to find the value)
 	- pseudo-random number generator takes seed + internal state and generates arbitrary length string of pseudo-random bits
-	- if you could guess every possible seed
+	- attacker could get access to internal state, which would allow all future "random" output to be predicted
 
 
