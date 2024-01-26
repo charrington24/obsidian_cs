@@ -4,16 +4,16 @@
 it's really annoying to keep thinking of new ways to scramble, so we decided on one algorithm that just requires a "key" parameter
 
 Secret key cryptography:
-	two inverse functions: encrypt and decrypt
-	authentication: if your secret key is 5 and the encryption algorithm is multiplication, someone can ask you to encrypt 12 to verify your identity. if you generate 60, then the other party knows you're legit without you having to divulge the secret
-	**integrity check:** function of message and key k. this is a checksum or a CRC or something
-	MAC (Message Authentication Code) is how we do integrity checks 
+	- two inverse functions: encrypt and decrypt
+	- authentication: if your secret key is 5 and the encryption algorithm is multiplication, someone can ask you to encrypt 12 to verify your identity. if you generate 60, then the other party knows you're legit without you having to divulge the secret
+	- **integrity check:** function of message and key k. this is a checksum or a CRC or something
+	- MAC (Message Authentication Code) is how we do integrity checks 
 		message and key together generate the MAC
 		then the message, key, and MAC are checked together to generate yes/no validity
 
 Computational Difficulty
-	with a good encryption algorithm, attacker has to brute force through 2^n keys, whereas valid user only has to run O(n)
-	faster computers is better for the valid users- they can use longer keys without sacrificing performance, but the brute force length increases exponentially
+	- with a good encryption algorithm, attacker has to brute force through 2^n keys, whereas valid user only has to run O(n)
+	- faster computers is better for the valid users- they can use longer keys without sacrificing performance, but the brute force length increases exponentially
 
 XOR with random string as long as message as key is a possible secret key algorithm. this is possible but inconvenient
 
@@ -44,7 +44,20 @@ Non-repudiation:
 	if alice signs something, she can't later say it wasn't from her
 	Done w public key digital signatures so that bob can prove to a third party to 
 	Can't be done with MAC because MAC depends on secret only known to alice and bob, not a third party. 
+	
+[[cryptographic hashing]]
 
-Integrity check: hash of message and private key
+Random Number Generation
+	- number doesn't really need to be random, it just needs to be hard for an attacker to guess
+	- cryptographically random: hard to guess
+	- RNGs embedded in popular programming languages are often deterministic
+	- statistically random is different from cryptographically random
+	- source of randomness: **seed**. also known as **sources of entropy**
+		- strength of RNG no stronger than strength of seed
+		- lots of non cryptographic RNGs use time of day or programatic keystrokes. These are fine for running simulations but not good for cryptography
+	- geiger counter clicks, background noise on mic are good sources of microphone. Pretty sure cloudflare does this with lava lamps
+	- Bits of entropy counted as log_2(g) (where g is # of guesses it'd take to find the value)
+	- pseudo-random number generator takes seed + internal state and generates arbitrary length string of pseudo-random bits
+
 
 

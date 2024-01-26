@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applied cryptography/hashing.md",
+                "file": "applied cryptography/intro to cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/hashing.md",
+                "file": "applied cryptography/intro to cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,8 @@
   },
   "active": "cc49f99a8bf9f5f0",
   "lastOpenFiles": [
+    "applied cryptography/cryptographic hashing.md",
     "applied cryptography/intro to cryptography.md",
-    "applied cryptography/hashing.md",
     "applied cryptography/basic networking.md",
     "compilers/Regex.md",
     "compilers/typing with classes.md",
