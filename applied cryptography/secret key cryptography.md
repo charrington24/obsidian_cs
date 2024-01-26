@@ -37,3 +37,7 @@
 - key is actually 64 bits but each byte has a bit of parity (this is useless padding- one bit per byte is not enough for real safety)
 - 56-bit security is completely insecure
 - "decryption" is the same as encryption but the keys are injected in the opposite order
+- 8 S-boxes, which each have a different 6-to-4 bit mapping
+### How to make a cipher reversible?
+- DES uses a **Feistel Cipher**
+	- build reversible function out of a non reversible function
