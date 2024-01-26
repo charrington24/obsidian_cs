@@ -6,7 +6,7 @@ it's really annoying to keep thinking of new ways to scramble, so we decided on 
 Secret key cryptography:
 	two inverse functions: encrypt and decrypt
 	authentication: if your secret key is 5 and the encryption algorithm is multiplication, someone can ask you to encrypt 12 to verify your identity. if you generate 60, then the other party knows you're legit without you having to divulge the secret
-	integrity check: function of message and key k. this is a checksum or a CRC or something
+	**integrity check:** function of message and key k. this is a checksum or a CRC or something
 	MAC (Message Authentication Code) is how we do integrity checks 
 		message and key together generate the MAC
 		then the message, key, and MAC are checked together to generate yes/no validity
