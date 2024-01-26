@@ -1,3 +1,5 @@
+#cryptography 
+#cybersecurity
 - ciphertext only
 - known plaintext (enigma cipher)
 - attacker can do chosen plaintext

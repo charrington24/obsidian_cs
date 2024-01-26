@@ -4,6 +4,7 @@
 it's really annoying to keep thinking of new ways to scramble, so we decided on one algorithm that just requires a "key" parameter
 
 Secret key cryptography:
+[[secret key cryptography]]
 	- two inverse functions: encrypt and decrypt
 	- authentication: if your secret key is 5 and the encryption algorithm is multiplication, someone can ask you to encrypt 12 to verify your identity. if you generate 60, then the other party knows you're legit without you having to divulge the secret
 	- **integrity check:** function of message and key k. this is a checksum or a CRC or something
@@ -75,5 +76,5 @@ Math
 - mod 10 arithmetic needs 4 bits per element but that sucks 
 - more efficient to use finite field which is power of 2 since each n-bit value represents an element 
 - addition in GF is just XOR and multiplication is also super efficient 
-- 
+-
 
