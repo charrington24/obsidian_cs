@@ -38,7 +38,11 @@
 - 56-bit security is completely insecure
 - "decryption" is the same as encryption but the keys are injected in the opposite order
 - 8 S-boxes, which each have a different 6-to-4 bit mapping
-### How to make a cipher reversible?
+#### How to make a cipher reversible?
 - DES uses a **Feistel Cipher**
 	- build reversible function out of a non reversible function
 - There was a graphic on the slides but i still have no idea how this works. Find a youtube video or something
+
+- EDE (for triple DES- this is encrypt, decrypt, encrypt) is dope because you can talk to an implementation that only knows single DES by using the same key for all EDE
+#### AES(Applied Encryption Standard)
+
