@@ -11,33 +11,34 @@ ISO reference model
 7. application layer
 
 IP protocols usually combine 5-7 into a single "application layer"
-[[layering]] layer 3 protocols
-	IPv4 is common layer 3 protocol
-	layer 3 packet contains source layer 3 address and destination layer 3 address
-	can have multiple processes on the receiving machine- protocol type determines this (filters between TCP, UDP, whatever)
+[[layering]] 
+layer 3 protocols
+- IPv4 is common layer 3 protocol
+- layer 3 packet contains source layer 3 address and destination layer 3 address
+- can have multiple processes on the receiving machine- protocol type determines this (filters between TCP, UDP, whatever)
 
 layer 4 protocols: UDP, TCP, ICMP
-	these have a source port and a destination port, which allows multiple processes on the same machine to talk using TCP or UDP
-	TCP has sequence number and ASK number (highest number of data received), UDP doesn't
-	also has flags (SYN- start a connection, FIN- end a connection)
+- these have a source port and a destination port, which allows multiple processes on the same machine to talk using TCP or UDP
+- TCP has sequence number and ASK number (highest number of data received), UDP doesn't
+- also has flags (SYN- start a connection, FIN- end a connection)
 
 DNS
-	hierarchical; there's an organization (ICANN) that creates TLDs (top level domains) and assigns them. there are about 1500 TLDs; these are the rightmost component in an address
-	URL has DNS name embedded
+- hierarchical; there's an organization (ICANN) that creates TLDs (top level domains) and assigns them. there are about 1500 TLDs; these are the rightmost component in an address
+- URL has DNS name embedded
 
 Protected sessions (TLS (ssl), SSH)
-	https only verifies that the website you're visiting is legit; it doesn't verify you
-	you can authenticate both ways- this is a cryptographically protected session. often done by having secret keys
-	different keys for encryption vs integrity protection
+- https only verifies that the website you're visiting is legit; it doesn't verify you
+- you can authenticate both ways- this is a cryptographically protected session. often done by having secret keys
+- different keys for encryption vs integrity protection
 	- alice says prove you're bob
 	- bob says i'm bob, prove you're alice
 	- alice says i'm alice
 	- they now have a cryptographically secure conversation
 
 HTTP and HTTPS (HTTP on top of TLS)
-	GET and PUT are main commands
-	HTML can encode links as URLs to go to other pages
-	page can specify what human sees on link text, what they see when they mouse over it, and where the link actually goes
+- GET and PUT are main commands
+- HTML can encode links as URLs to go to other pages
+- page can specify what human sees on link text, what they see when they mouse over it, and where the link actually goes
 
 Cookies
 	HTTP is stateless (doesn't remember anything), so it saves info called cookies

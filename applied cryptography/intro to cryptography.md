@@ -1,18 +1,18 @@
 
 #cryptography 
-**encryption**: way of scrambling data in an unscrambleable way
-it's really annoying to keep thinking of new ways to scramble, so we decided on one algorithm that just requires a "key" parameter
+- **encryption**: way of scrambling data in an unscrambleable way
+- it's really annoying to keep thinking of new ways to scramble, so we decided on one algorithm that just requires a "key" parameter
 
-Secret key cryptography:
+### Secret key cryptography:
 [[secret key cryptography]]
 - two inverse functions: encrypt and decrypt
 - authentication: if your secret key is 5 and the encryption algorithm is multiplication, someone can ask you to encrypt 12 to verify your identity. if you generate 60, then the other party knows you're legit without you having to divulge the secret
 - **integrity check:** function of message and key k. this is a checksum or a CRC or something
-- MAC (Message Authentication Code) is how we do integrity checks 
+- **MAC (Message Authentication Code)** is how we do integrity checks 
 	message and key together generate the MAC
 	then the message, key, and MAC are checked together to generate yes/no validity
 
-Computational Difficulty
+### Computational Difficulty
 - with a good encryption algorithm, attacker has to brute force through 2^n keys, whereas valid user only has to run O(n)
 - faster computers is better for the valid users- they can use longer keys without sacrificing performance, but the brute force length increases exponentially
 
@@ -33,7 +33,7 @@ encryption history:
 	caesar cipher
 	monoalphabetic substitution
 
-Public Key Cryptography
+### Public Key Cryptography
 - aka "asymmetric cryptography"
 - two keys that are inverses of each other
 - you have a public key and a private key which are inverses of each other
@@ -41,14 +41,14 @@ Public Key Cryptography
 - you encrypt for bob using bob's public key, and he decrypts it with his private key
 - analogy: nobody knows how to do division; they only ever invented multiplication
 
-Non-repudiation: 
+### Non-Repudiation: 
 - if alice signs something, she can't later say it wasn't from her
 - Done w public key digital signatures so that bob can prove to a third party to 
 - Can't be done with MAC because MAC depends on secret only known to alice and bob, not a third party. 
 	
 [[cryptographic hashing]]
 
-Random Number Generation
+### Random Number Generation
 - number doesn't really need to be random, it just needs to be hard for an attacker to guess
 - cryptographically random: hard to guess
 - RNGs embedded in popular programming languages are often deterministic
@@ -66,7 +66,7 @@ Random Number Generation
 
 [[cryptographic attacks]]
 
-Math
+### Math
 - integers are a pain to store bc they get big, so most cryptography math uses modular arithmetic 
 - field: needs two operations, commutativity, associativity, distributivity, additive identity, multiplicative identity, additive inverse
 - ring: like a field, but some non zero elements may not have multiplicative identities or inverses. Integers mod n where n is not prime

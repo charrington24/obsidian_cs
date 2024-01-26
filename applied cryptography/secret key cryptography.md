@@ -16,3 +16,18 @@
 - this would require alice to use 2^64 \* 64 bits to tell bob which mapping to use
 - instead, do mapping based on some smaller key
 - change in each input bit should result in change in many output bits
+#### practical block cipher design:
+- should be indistinguishable from ideal block cipher, unless someone knows key
+- use pseudorandom permutation
+- needs to be reversible to allow decryption
+- typical method is to do something not super secure but do it a lot of times
+- each time you do it is called a **round**
+- use different keys for each round, called **per-round keys**. made from main key- this is **key expansion**
+- two types of transformations within a round:
+	- s-boxes (substitution or confusion)
+		- maps k bits of input to j bits of output
+		- "randomly" chooses outputs
+		- k and j must be small or lookup table would be insane
+		- so s-boxes tend to be small
+	- p-boxes (permutation or diffusion)
+		- shuffles the bits around
