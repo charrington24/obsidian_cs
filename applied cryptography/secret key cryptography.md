@@ -38,11 +38,16 @@
 - 56-bit security is completely insecure
 - "decryption" is the same as encryption but the keys are injected in the opposite order
 - 8 S-boxes, which each have a different 6-to-4 bit mapping
+- EDE (for triple DES- this is encrypt, decrypt, encrypt) is dope because you can talk to an implementation that only knows single DES by using the same key for all EDE
 #### How to make a cipher reversible?
 - DES uses a **Feistel Cipher**
 	- build reversible function out of a non reversible function
 - There was a graphic on the slides but i still have no idea how this works. Find a youtube video or something
-
-- EDE (for triple DES- this is encrypt, decrypt, encrypt) is dope because you can talk to an implementation that only knows single DES by using the same key for all EDE
-#### AES(Applied Encryption Standard)
-
+#### AES(Advanced Encryption Standard)
+- NIST wanted a more secure and better performing standard than 3DES
+- AES created thru an international competition
+- 128-bit block, key size 128, 192, or 256
+- 10, 12, or 14 rounds (matched against key size)
+- operations on bytes not bits, so it's more efficient
+- not a Feistel cipher so it runs twice as fast
+- S-boxes are identical and output is mathematically computable from input (rather than magic number DES S-boxes)
