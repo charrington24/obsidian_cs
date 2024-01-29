@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed systems/communications.md",
+                "file": "applied cryptography/basic networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,13 +160,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "1f88e385231db7ba",
+  "active": "89a888cd446edf99",
   "lastOpenFiles": [
-    "distributed systems/intro to distributed systems.md",
     "distributed systems/communications.md",
+    "applied cryptography/basic networking.md",
+    "distributed systems/intro to distributed systems.md",
     "applied cryptography/secret key cryptography.md",
     "applied cryptography/intro to cryptography.md",
-    "applied cryptography/basic networking.md",
     "applied cryptography/cryptographic attacks.md",
     "compilers/legality vs safety.md",
     "compilers/syntax analysis.md",

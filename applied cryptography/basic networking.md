@@ -4,8 +4,11 @@
 ISO reference model
 1. physical (bits)
 2. data link (start of packet, end of packet, checksum)
+	1. unit of transmission is frames
 3. network (forwards packets between links)
+	1. end-to-end; describes how packets are routed
 4. transport (between source and destination; numbering, retransmission of packets)
+	1. TCP, UDP
 5. session (only sometimes required- for file transfer, checkpoint, etc)
 6. presentation
 7. application layer
