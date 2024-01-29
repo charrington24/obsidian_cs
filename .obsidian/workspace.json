@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed systems/intro to distributed systems.md",
+                "file": "distributed systems/communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed systems/intro to distributed systems.md",
+                "file": "distributed systems/communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,8 +162,8 @@
   },
   "active": "1f88e385231db7ba",
   "lastOpenFiles": [
-    "distributed systems/communications.md",
     "distributed systems/intro to distributed systems.md",
+    "distributed systems/communications.md",
     "applied cryptography/secret key cryptography.md",
     "applied cryptography/intro to cryptography.md",
     "applied cryptography/basic networking.md",
