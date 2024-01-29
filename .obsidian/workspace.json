@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applied cryptography/secret key cryptography.md",
+                "file": "distributed systems/intro to distributed systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f88e385231db7ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed systems/intro to distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/secret key cryptography.md",
+                "file": "distributed systems/intro to distributed systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,12 +160,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "215e2a77f04fde1f",
+  "active": "1f88e385231db7ba",
   "lastOpenFiles": [
+    "distributed systems/communications.md",
+    "distributed systems/intro to distributed systems.md",
+    "applied cryptography/secret key cryptography.md",
     "applied cryptography/intro to cryptography.md",
     "applied cryptography/basic networking.md",
     "applied cryptography/cryptographic attacks.md",
-    "applied cryptography/secret key cryptography.md",
     "compilers/legality vs safety.md",
     "compilers/syntax analysis.md",
     "compilers/Regex.md",
@@ -174,8 +189,6 @@
     "formats/data struct template.md",
     "formats/algorithm template.md",
     "distributed systems/remote procedure calls.md",
-    "distributed systems/intro to distributed systems.md",
-    "data structures and algos/array.md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",
