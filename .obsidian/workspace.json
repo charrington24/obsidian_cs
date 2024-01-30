@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/basic networking.md",
+                "file": "distributed systems/intro to distributed systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,8 +159,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "89a888cd446edf99",
+  "active": "215e2a77f04fde1f",
   "lastOpenFiles": [
+    "distributed systems/Drawing 2024-01-29 17.05.26.excalidraw.md",
     "distributed systems/communications.md",
     "applied cryptography/basic networking.md",
     "distributed systems/intro to distributed systems.md",
@@ -188,7 +188,6 @@
     "formats/leetcode template.md",
     "formats/data struct template.md",
     "formats/algorithm template.md",
-    "distributed systems/remote procedure calls.md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",
