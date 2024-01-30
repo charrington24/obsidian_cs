@@ -3,4 +3,4 @@
 #cybersecurity 
 #infosec 
 
--stands for role-based access control
+- stands for role-based access control
