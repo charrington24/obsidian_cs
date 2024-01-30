@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity risk/vulnerabilities.md",
+                "file": "cybersecurity risk/intro to risk assesment.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersecurity risk/vulnerabilities.md",
+                "file": "cybersecurity risk/intro to risk assesment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +174,9 @@
   },
   "active": "9167c5481bdf87a8",
   "lastOpenFiles": [
-    "cybersecurity risk/intro to risk assesment.md",
-    "cybersecurity risk/regulations.md",
     "cybersecurity risk/controls.md",
+    "cybersecurity risk/regulations.md",
+    "cybersecurity risk/intro to risk assesment.md",
     "cybersecurity risk/vulnerabilities.md",
     "files/Pasted image 20240130160729.png",
     "files/Screenshot_20240129_171434_Canvas Student.jpg",

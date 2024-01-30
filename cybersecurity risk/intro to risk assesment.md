@@ -1,4 +1,4 @@
-
+#cybersecurity
  - **asset**: something of value to an organization. can be physical or virtual
  - **vulnerability**: weakness that can be exploited to harm an asset
 	 - a **zero-day vulnerability** is unknown to the vulnerable party
