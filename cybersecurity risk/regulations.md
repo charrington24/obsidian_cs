@@ -10,3 +10,4 @@
 		- appendix L has a summary of the risk assessment tasks
 	- SP-800 53: Security and Privacy Controls for Information Systems and Organizations
 		- has list of control families
+		- always use revision 5, not revision 4
