@@ -1,6 +1,5 @@
 #distributed_systems 
 #networking 
-### networking
 - basic networking model: iSO model described in [[basic networking]] 
 - why is the layer model so fragmented? 
 	- allows you to plug and play- can mix wired and wireless layers
@@ -22,5 +21,4 @@
 - client/server is transient and synchronous
 	- client issues req and blocks until it gets reply
 	- drawbacks: failures have to be handled immediately, client gets blocked, may not be ideal
-- message-oriented-middlewareoriented middleware (covered in [[intro to distributed systems]] ) uses persistent asynchronous communication 
-See [[remote procedure calls]] 
+- message-oriented-middleware
