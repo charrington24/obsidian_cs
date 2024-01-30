@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd7621f2e52a2281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersecurity risk/intro to risk assesment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9167c5481bdf87a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cybersecurity risk/vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersecurity risk/regulations.md",
+                "file": "cybersecurity risk/vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +172,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "215e2a77f04fde1f",
+  "active": "9167c5481bdf87a8",
   "lastOpenFiles": [
-    "cybersecurity risk/controls.md",
+    "cybersecurity risk/intro to risk assesment.md",
     "cybersecurity risk/regulations.md",
+    "cybersecurity risk/controls.md",
+    "cybersecurity risk/vulnerabilities.md",
     "files/Pasted image 20240130160729.png",
     "files/Screenshot_20240129_171434_Canvas Student.jpg",
     "applied cryptography/basic networking.md",
@@ -176,7 +203,6 @@
     "compilers/top-down parsing.md",
     "compilers/maximal munch.md",
     "networking/loss and delay.md",
-    "networking/layering.md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",

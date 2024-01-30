@@ -1,0 +1,12 @@
+
+ - **asset**: something of value to an organization. can be physical or virtual
+ - **vulnerability**: weakness that can be exploited to harm an asset
+	 - a **zero-day vulnerability** is unknown to the vulnerable party
+ - **threat**: anything that may exploit a vulnerability. Can be intentional or unintentional, physical or cyber, etc
+ - what is **risk**? probability of suffering loss or harm to an asset
+ - infosec triad: confidentiality, integrity, availability (CIA). Cyber risk affects one or all of these
+ - a risk assessment defines the impact and likelihood of a particular loss event
+	 - three legs of stool: impact, likelihood, and risk
+ - how do we manage risk?
+	 - accept, avoid, mitigate, transfer
+	 - this is done through [[controls]]
