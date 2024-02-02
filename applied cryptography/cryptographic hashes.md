@@ -37,3 +37,5 @@
 	- can make it harder by making the required hash smaller
 	- we want a new block every 10 minutes- there's an algorithm that adjusts the # of leading zeroes required to make this happen
 - Bit commitment 
+- Hash Trees (Merkle Tree)
+	- way to hash together large amounts of data such that the hash value can be confirmed without reading entire file
