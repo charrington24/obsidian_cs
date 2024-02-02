@@ -8,3 +8,6 @@
 	- hash needs to be reasonably big (128 bits) and look random to have these two properties
 - finding a collision is easier than finding a preimage 
 	- the birthday problem explains why this is
+- what can you do with a hash?
+	- digital signature (RSA)- don't sign msg, sign hash
+	- password database- you can store hashes instead of plaintext
