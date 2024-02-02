@@ -7,4 +7,4 @@
 	- **second-preimage resistance**:
 	- hash needs to be reasonably big (128 bits) and look random to have these two properties
 - finding a collision is easier than finding a preimage 
-	- the birthday problem explains why this is- it's easier ti 
+	- the birthday problem explains why this is

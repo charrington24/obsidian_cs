@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f6626b4d464d2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applied cryptography/modes of operation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ace6d8b10a147aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applied cryptography/modes of operation.md",
+                "file": "applied cryptography/cryptographic hashes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/modes of operation.md",
+                "file": "applied cryptography/cryptographic hashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,9 +137,9 @@
   },
   "active": "ace6d8b10a147aa9",
   "lastOpenFiles": [
+    "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashes.md",
     "applied cryptography/cryptographic hashing overview.md",
-    "applied cryptography/modes of operation.md",
     "applied cryptography/secret key cryptography.md",
     "cybersecurity risk/regulations.md",
     "applied cryptography/intro to cryptography.md",
