@@ -39,3 +39,5 @@
 - Bit commitment 
 - Hash Trees (Merkle Tree)
 	- way to hash together large amounts of data such that the hash value can be confirmed without reading entire file
+- How to create hash function?
+- 
