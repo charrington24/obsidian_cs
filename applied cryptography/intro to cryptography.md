@@ -46,7 +46,7 @@ encryption history:
 - Done w public key digital signatures so that bob can prove to a third party to 
 - Can't be done with MAC because MAC depends on secret only known to alice and bob, not a third party. 
 	
-[[cryptographic hashing]]
+[[cryptographic hashing overview]]
 
 ### Random Number Generation
 - number doesn't really need to be random, it just needs to be hard for an attacker to guess
