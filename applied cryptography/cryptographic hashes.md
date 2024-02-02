@@ -34,3 +34,5 @@
 	- if you find the valid next block as a "miner", you get rewarded with Bitcoins
 	- valid block consists of new valid transactions, a random number, and having a small enough hash value
 	- this is basically like winning the lottery
+	- can make it harder by making the required hash smaller
+	- we want a new block every 10 minutes- there's an algorithm that adjusts the # of leading zeroes required to make this happen
