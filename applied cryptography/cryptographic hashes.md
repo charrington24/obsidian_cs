@@ -30,4 +30,7 @@
 	- append-only log consisting of a chain of blocks
 	- in each block, include hash of previous block
 	- this means you can't easily change log entries, since all subsequent blocks depend on previous hash
-	- you can also maintain a "ledger" 
+	- you can also maintain a "ledger" - save hash value every 10 blocks to some external protected location
+	- if you find the valid next block as a "miner", you get rewarded with Bitcoins
+	- valid block consists of new valid transactions, a random number, and having a small enough hash value
+	- this is basically like winning the lottery
