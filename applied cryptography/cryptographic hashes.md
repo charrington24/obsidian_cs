@@ -6,4 +6,5 @@
 	- **collision resistance**: no easier way than hashing random values until you find two inputs whose hashes are equal
 	- **second-preimage resistance**:
 	- hash needs to be reasonably big (128 bits) and look random to have these two properties
-	- 
+- finding a collision is easier than finding a preimage 
+	- the birthday problem explains why this is- it's easier ti 
