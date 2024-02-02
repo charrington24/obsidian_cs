@@ -36,3 +36,4 @@
 	- this is basically like winning the lottery
 	- can make it harder by making the required hash smaller
 	- we want a new block every 10 minutes- there's an algorithm that adjusts the # of leading zeroes required to make this happen
+- Bit commitment 
