@@ -7,4 +7,6 @@ introduction
 encrypting a large message
 ### Generating MACs
 - CBC Residue- it's as though you're encrypting a message, but you take the last block and use it as the checksum
-- 
+- if the message is not a multiple of the block size you can add padding
+- if you don't know whether the msg is multiple of block size, you can add in a full block of padding. But that's inefficient
+- so there are two versions of CBC-MAC depending on whether there's a final block of padding
