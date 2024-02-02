@@ -25,4 +25,9 @@
 	- Force a party to do a lot of work by asking next message to have a hash with first k < n bits of hash equal to some value x
 		- work grows exponentially with k
 		- alice to bob: do something
-		- bob: Ok, tell me a number 
+		- bob: Ok, tell me a number whose hash ends with 35465789
+- Blockchain
+	- append-only log consisting of a chain of blocks
+	- in each block, include hash of previous block
+	- this means you can't easily change log entries, since all subsequent blocks depend on previous hash
+	- you can also maintain a "ledger" 
