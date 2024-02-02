@@ -5,7 +5,7 @@ NOTE: i missed the first 45 minutes of this lecture- chapters 4.0-4.25 in book. 
 sections missed: 
 introduction
 encrypting a large message
-notes on large message: you come up with a secret key, encrypt the message w secret key, encrypt the key with 
+notes on large message: you come up with a secret key, encrypt the message w secret key, encrypt the key with bob's public key
 ### Generating MACs
 - CBC Residue- it's as though you're encrypting a message, but you take the last block and use it as the checksum
 - if the message is not a multiple of the block size you can add padding
