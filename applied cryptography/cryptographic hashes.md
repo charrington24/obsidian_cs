@@ -11,3 +11,18 @@
 - what can you do with a hash?
 	- digital signature (RSA)- don't sign msg, sign hash
 	- password database- you can store hashes instead of plaintext (improved w salting)
+- Hash chains
+- Lamport's hash (aka S/Key)
+	- Bob's database stores for each user:
+		- n, salt, hash^n+1(pwd | salt)
+	- alice sends i'm alice
+	- bob sends n, salt
+	- alice sends hash^n(pwd | salt)
+	- bob modifies db to store hash^n
+	- this offers eavesdropping protection and server database reading without public key cryptography
+	- someone can impersonate bob- request a very small n. this is **small n attack** 
+- Puzzles
+	- Force a party to do a lot of work by asking next message to have a hash with first k < n bits of hash equal to some value x
+		- work grows exponentially with k
+		- alice to bob: do something
+		- bob: Ok, tell me a number 
