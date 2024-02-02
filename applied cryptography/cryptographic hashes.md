@@ -10,4 +10,4 @@
 	- the birthday problem explains why this is
 - what can you do with a hash?
 	- digital signature (RSA)- don't sign msg, sign hash
-	- password database- you can store hashes instead of plaintext
+	- password database- you can store hashes instead of plaintext (improved w salting)
