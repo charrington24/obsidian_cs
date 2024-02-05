@@ -1,5 +1,6 @@
 #distributed_systems 
 #networking 
+#communication
 - basic networking model: iSO model described in [[basic networking]] 
 - why is the layer model so fragmented? 
 	- allows you to plug and play- can mix wired and wireless layers
@@ -22,13 +23,5 @@
 	- client issues req and blocks until it gets reply
 	- drawbacks: failures have to be handled immediately, client gets blocked, may not be ideal
 - message-oriented-middleware
-- NOTE: TODO: missed lecture on 1/31. Go back and fill in notes form remainder of lecture 3 slides (more detailed stuff on RPCs, sockets, DCE, request-reply, pipelines, publish-subscribe)
-- **MPI (message passing interface)**- advanced transient messaging
-	- mostly used when high-performance computing is needed
-- **AMQP (Advanced Message Queueing Protocol)**
-	- exchanges accept messages from producers and route them to queues
-	- binding decouples message from producers and has rules for routing to destination queue
-	- message queues are bound to an exchange and exist until used up by client
-	- connection: physical TCP between client and producer. has many channels
-	- channel: virtual conduit between client and broker
-	- routing strategies: direct, fanout, topic, header. all use different algorithms
+- see [[remote procedure calls]]
+- need to understand synchronous/asynchronous and transient/persistent
