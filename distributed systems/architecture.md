@@ -52,4 +52,12 @@
 	- looking up with key k means routing request to node with identifier k
 	- ex: chord
 		- nodes organized in a ring with an m-bit identifier
-		- 
+- unstructured P2P:
+	- each node maintains list of neighbors. overlay is a random graph; edge exists with random probability
+	- search techniques:
+		- flooding: pass request to all neighbors- request ignored if receiving node has seen it before. Often limited by time-to-live (max # hops) but can be very costly
+		- random walk: pass request to random neighbor
+- super-peer networks:
+	- have **index servers** in unstructured P2P
+	- **brokers** can decide where to store data
+	- overlay network between superpeers, not weak normal peers
