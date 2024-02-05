@@ -33,3 +33,12 @@
 ### Middleware organization
 - **Wrapper** or **adapter** commonly used to offer up-to-date interface around legacy component
 - header files are a form of interface- header file that uses another header file is a wrapper
+- if applications and wrappers are directly connected, you get O(N^2) wrappers. wrapping through a broker you only get O(N)
+### Centralized organizations
+- client-server
+- multi-tiered centralized systems:
+	- single-tiered: dumb terminal/mainframe
+	- two-tiered: client-server
+	- three-tiered: each layer on a separate machine
+- you can split two-tiered into a lot of different configurations, with varying parts of UI, application, and database levels split between client and server
+- edge computing- lots of computation moved to client
