@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applied cryptography/cryptographic hashes.md",
+                "file": "distributed systems/communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/cryptographic hashes.md",
+                "file": "distributed systems/communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,8 @@
   },
   "active": "ace6d8b10a147aa9",
   "lastOpenFiles": [
-    "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashes.md",
+    "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashing overview.md",
     "applied cryptography/secret key cryptography.md",
     "cybersecurity risk/regulations.md",

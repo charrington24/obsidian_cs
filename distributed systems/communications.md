@@ -22,3 +22,4 @@
 	- client issues req and blocks until it gets reply
 	- drawbacks: failures have to be handled immediately, client gets blocked, may not be ideal
 - message-oriented-middleware
+- NOTE: TODO: missed lecture on 1/31. Go back and fill in notes form remainder of lecture 3 slides (more detailed stuff on RPCs, sockets, DCE, request-reply, pipelines, publish-subscribe)
