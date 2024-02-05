@@ -50,3 +50,6 @@
 	- uses a **semantic-free index**- each data item is uniquely associated with a key. usually use a hash function to get the key
 	- P2P system stores those key-value pairs
 	- looking up with key k means routing request to node with identifier k
+	- ex: chord
+		- nodes organized in a ring with an m-bit identifier
+		- 
