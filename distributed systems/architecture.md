@@ -30,3 +30,6 @@
 | referentially coupled | direct | mailbox |
 | referentially decoupled | event-based | shared data space |
 - example: Linda tuple space
+### Middleware organization
+- **Wrapper** or **adapter** commonly used to offer up-to-date interface around legacy component
+- header files are a form of interface- header file that uses another header file is a wrapper
