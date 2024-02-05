@@ -42,3 +42,11 @@
 	- three-tiered: each layer on a separate machine
 - you can split two-tiered into a lot of different configurations, with varying parts of UI, application, and database levels split between client and server
 - edge computing- lots of computation moved to client
+### Decentralized organizations
+- vertical distribution- divide apps onto three logical layers and run each component from a different layer
+- horizontal distribution
+- peer-to-peer- all processes are equivalent
+- structured P2P: nodes have precise neighbors that they communicate with
+	- uses a **semantic-free index**- each data item is uniquely associated with a key. usually use a hash function to get the key
+	- P2P system stores those key-value pairs
+	- looking up with key k means routing request to node with identifier k
