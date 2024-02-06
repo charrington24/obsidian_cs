@@ -162,8 +162,9 @@
   },
   "active": "26341111d1860fb7",
   "lastOpenFiles": [
-    "cybersecurity risk/controls.md",
+    "applied cryptography/secret key cryptography.md",
     "cybersecurity risk/privacy.md",
+    "cybersecurity risk/controls.md",
     "cybersecurity risk/intro to risk assesment.md",
     "cybersecurity risk/regulations.md",
     "cybersecurity risk/vulnerabilities.md",
@@ -178,7 +179,6 @@
     "applied cryptography/cryptographic hashes.md",
     "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashing overview.md",
-    "applied cryptography/secret key cryptography.md",
     "applied cryptography/cryptographic attacks.md",
     "neo4j stuff/rbac.md",
     "files/Pasted image 20240130160729.png",
