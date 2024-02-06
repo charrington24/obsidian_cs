@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "26341111d1860fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cybersecurity risk/privacy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b6a0ce1c9ecd909f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed systems/architecture.md",
+                "file": "cybersecurity risk/privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,22 +148,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "26341111d1860fb7",
+  "active": "b6a0ce1c9ecd909f",
   "lastOpenFiles": [
-    "applied cryptography/secret key cryptography.md",
-    "cybersecurity risk/privacy.md",
+    "distributed systems/architecture.md",
     "cybersecurity risk/controls.md",
+    "compilers/typing with classes.md",
+    "compilers/TAC (three address code).md",
+    "compilers/top-down parsing.md",
+    "compilers/first and follow sets.md",
+    "compilers/IR.md",
+    "distributed systems/communications.md",
+    "distributed systems/remote procedure calls.md",
+    "distributed systems/message-oriented communication.md",
+    "distributed systems/Drawing 2024-01-29 17.05.26.excalidraw.md",
+    "cybersecurity risk/privacy.md",
+    "applied cryptography/secret key cryptography.md",
     "cybersecurity risk/intro to risk assesment.md",
     "cybersecurity risk/regulations.md",
     "cybersecurity risk/vulnerabilities.md",
     "applied cryptography/basic networking.md",
-    "distributed systems/architecture.md",
-    "distributed systems/communications.md",
     "applied cryptography/intro to cryptography.md",
-    "distributed systems/remote procedure calls.md",
-    "distributed systems/message-oriented communication.md",
     "distributed systems/intro to distributed systems.md",
-    "distributed systems/Drawing 2024-01-29 17.05.26.excalidraw.md",
     "applied cryptography/cryptographic hashes.md",
     "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashing overview.md",
@@ -185,12 +178,7 @@
     "files/Screenshot_20240129_171434_Canvas Student.jpg",
     "compilers/legality vs safety.md",
     "compilers/syntax analysis.md",
-    "compilers/Regex.md",
-    "compilers/LL(1).md",
-    "compilers/typing with classes.md",
-    "compilers/IR.md",
     "cybersecurity risk",
-    "compilers/TAC (three address code).md",
     "files/Pasted image 20240122164210.png",
     "files",
     "files/Pasted image 20240122164232.png",
