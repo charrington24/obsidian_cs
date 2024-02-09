@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity risk/privacy.md",
+                "file": "applied cryptography/secret key cryptography.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cybersecurity risk/privacy.md",
+                "file": "applied cryptography/secret key cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,11 @@
   },
   "active": "b6a0ce1c9ecd909f",
   "lastOpenFiles": [
+    "applied cryptography/modes of operation.md",
+    "applied cryptography/cryptographic hashes.md",
+    "applied cryptography/cryptographic hashing overview.md",
+    "distributed systems/intro to distributed systems.md",
+    "cybersecurity risk/privacy.md",
     "distributed systems/architecture.md",
     "cybersecurity risk/controls.md",
     "compilers/typing with classes.md",
@@ -161,17 +167,12 @@
     "distributed systems/remote procedure calls.md",
     "distributed systems/message-oriented communication.md",
     "distributed systems/Drawing 2024-01-29 17.05.26.excalidraw.md",
-    "cybersecurity risk/privacy.md",
     "applied cryptography/secret key cryptography.md",
     "cybersecurity risk/intro to risk assesment.md",
     "cybersecurity risk/regulations.md",
     "cybersecurity risk/vulnerabilities.md",
     "applied cryptography/basic networking.md",
     "applied cryptography/intro to cryptography.md",
-    "distributed systems/intro to distributed systems.md",
-    "applied cryptography/cryptographic hashes.md",
-    "applied cryptography/modes of operation.md",
-    "applied cryptography/cryptographic hashing overview.md",
     "applied cryptography/cryptographic attacks.md",
     "neo4j stuff/rbac.md",
     "files/Pasted image 20240130160729.png",
