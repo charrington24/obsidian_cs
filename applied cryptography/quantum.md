@@ -10,3 +10,4 @@
 		- if entangled qubits are in a state and you read one, you know the value of the other one
 	- group of n qubits has 2^n superposed states
 		- same as with reading one qubit- once you read one, the other values go away
+		- if you only read a subset (like the first qubit) it just shrinks the possibility space. so if you have 3 qubits and you read the first and it's 0, then your options are 000, 001, 010, 011
