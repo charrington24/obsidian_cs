@@ -8,3 +8,4 @@
 	- signatures: sign with private and verify with public
 	- encryption: encrypt with public and decrypt with private
 - should be infeasible to calculate private key given known public key
+- 

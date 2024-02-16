@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cf14c5dd2551126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applied cryptography/cryptographic hashes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b6a0ce1c9ecd909f",
             "type": "leaf",
             "state": {
@@ -43,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/cryptographic hashes.md",
+                "file": "applied cryptography/first-gen public key algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,14 +148,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "4cf14c5dd2551126",
+  "active": "2fff06279f1ab149",
   "lastOpenFiles": [
-    "cybersecurity risk/controls.md",
     "compilers/top-down parsing.md",
+    "applied cryptography/cryptographic hashes.md",
+    "cybersecurity risk/controls.md",
     "applied cryptography/first-gen public key algorithms.md",
     "applied cryptography/secret key cryptography.md",
     "applied cryptography/modes of operation.md",
-    "applied cryptography/cryptographic hashes.md",
     "applied cryptography/cryptographic hashing overview.md",
     "distributed systems/intro to distributed systems.md",
     "cybersecurity risk/privacy.md",
