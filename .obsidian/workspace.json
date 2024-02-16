@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e432591f57f5bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "applied cryptography/quantum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applied cryptography/first-gen public key algorithms.md",
+                "file": "applied cryptography/quantum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +160,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "2fff06279f1ab149",
+  "active": "82c821483f01ffe5",
   "lastOpenFiles": [
+    "applied cryptography/quantum.md",
+    "applied cryptography/first-gen public key algorithms.md",
     "compilers/top-down parsing.md",
     "applied cryptography/cryptographic hashes.md",
     "cybersecurity risk/controls.md",
-    "applied cryptography/first-gen public key algorithms.md",
     "applied cryptography/secret key cryptography.md",
     "applied cryptography/modes of operation.md",
     "applied cryptography/cryptographic hashing overview.md",
@@ -177,7 +190,6 @@
     "neo4j stuff/rbac.md",
     "files/Pasted image 20240130160729.png",
     "files/Screenshot_20240129_171434_Canvas Student.jpg",
-    "compilers/legality vs safety.md",
     "cybersecurity risk",
     "files/Pasted image 20240122164210.png",
     "files",
