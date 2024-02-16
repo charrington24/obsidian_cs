@@ -16,3 +16,11 @@
 	- output state: add outputs of all inputs in proportion
 	- but you can't read it without losing the superposition
 	- the parallelism doesn't give you all 2^n answers; it only gives you one 
+- how to initialize qubit to 0? 
+	- read it- if it's a 0, yay. if it's a 1, put it through a not gate
+- hadamard gate to create superposition
+- you can only really use 1 or 2 qubit gates
+- there are universal gate sets for quantum circuits (like NAND for classical)
+- algorithms:
+	- grover's: brute force search in square root of time
+	- shor's: break modern public key algorithms in polynomial time
