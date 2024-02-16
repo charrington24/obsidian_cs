@@ -8,3 +8,5 @@
 	- you can't make a copy of a qubit
 	- entanglement- if a group of qubits is entangled, you can only talk about the state of the group. state is set of superposed states (2 qubits would be some superposition of 00, 01, 10, 11)
 		- if entangled qubits are in a state and you read one, you know the value of the other one
+	- group of n qubits has 2^n superposed states
+		- same as with reading one qubit- once you read one, the other values go away
