@@ -5,4 +5,4 @@ hello! welcome to my computer science notes repository. i'm always trying to fin
 currently, i've got a neo4j folder in this repo for neo4j-related notes, and a data structures/algorithms folder that i'm fleshing out to prepare for interviews. i plan to convert all of my old class notes into Obsidian (i've got notes from OS, computer organization, intro to computer systems, programming languages, discrete math, etc) but that's on the back-burner as i enter the semester. anyway, happy learning! 
 
 
-testing 
+testing ftghjlyhku;j
